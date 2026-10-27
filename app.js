@@ -4,13 +4,13 @@
 
 // URL do projeto Supabase
 // Substitua pelo endereço do seu projeto.
-const SUPABASE_URL = "https://kwwnkdbelhzyhgwadoil.supabase.co";
+const SUPABASE_URL = "https://nosqamcleloanecyaorp.supabase.co";
 
 
 // Chave pública do projeto
 // Utilize somente a chave pública destinada ao cliente.
 // NÃO coloque aqui a Service Role Key.
-const SUPABASE_ANON_KEY = "sb_publishable_78J8khrdZ_ENfESiOIGL5g_eJ3QH-HY";
+const SUPABASE_ANON_KEY = "sb_publishable_-VxJB3_TuNx4maRgzwP_2w_DnbsI8ZS";
 
 
 // Cria a conexão com o Supabase
